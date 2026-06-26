@@ -84,6 +84,7 @@ main
 -[Tarun Bansla](https://github.com/Anolt)
 -[Shweta Shirsawade](https;//github.com/MsShweta)
 -[Merrill Dmonte](https://github.com/Merrill04)
+-[Thejas Shetty](https://github.com/thejasshetty05)
 -[Ketan Sapkal](https://github.com/ketan3)
 [Akshaya Sreleka](https://github.com/AkshayaSrelekaPS) -[hari]
 - [Popoola Ibrahim] (https://github.com/popsy208)
